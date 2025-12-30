@@ -140,4 +140,4 @@ This project is open-source and for educational purposes.
 
 ## 🔗 Other Projects
 
-- [E-commerce Data Cleaning](link-to-your-other-repo)
+- [Nettoyage de données E-commerce](https://github.com/[ton-username]/nettoyage-ecommerce)
