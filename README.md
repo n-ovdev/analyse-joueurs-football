@@ -140,4 +140,4 @@ Ce projet est libre de droits et à but éducatif.
 
 ## 🔗 Autres projets
 
-- [Nettoyage de données E-commerce](lien-vers-ton-autre-repo)
+- - [Nettoyage de données E-commerce](https://github.com/[ton-username]/nettoyage-ecommerce)
